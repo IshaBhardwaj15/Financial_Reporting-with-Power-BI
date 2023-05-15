@@ -37,5 +37,19 @@ with features including Cash Flow Type,	Cash Flow Category,	Cash Flow Sub Catego
 
 with columns Clearing Date,	Due Date,	Customer Index and Value	Invoice Number.
 
+Dashboard
 
+![image](https://github.com/IshaBhardwaj15/Financial_Reporting-with-Power-BI/blob/main/Financial%20Reporting-1.png)
+
+![image](https://github.com/IshaBhardwaj15/Financial_Reporting-with-Power-BI/blob/main/Financial%20Reporting-2.png)
+
+![image](https://github.com/IshaBhardwaj15/Financial_Reporting-with-Power-BI/blob/main/Financial%20Reporting-3.png)
+
+![image](https://github.com/IshaBhardwaj15/Financial_Reporting-with-Power-BI/blob/main/Financial%20Reporting-4.png)
+
+![image](https://github.com/IshaBhardwaj15/Financial_Reporting-with-Power-BI/blob/main/Financial%20Reporting-5.png)
+
+![image](https://github.com/IshaBhardwaj15/Financial_Reporting-with-Power-BI/blob/main/Financial%20Reporting-6.png)
+
+![image](https://github.com/IshaBhardwaj15/Financial_Reporting-with-Power-BI/blob/main/Financial%20Reporting-7.png)
 
